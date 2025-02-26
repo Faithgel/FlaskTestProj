@@ -126,7 +126,7 @@
       <option name="presentableId" value="Default" />
       <updated>1740577638441</updated>
       <workItem from="1740577640076" duration="115000" />
-      <workItem from="1740577785668" duration="3121000" />
+      <workItem from="1740577785668" duration="3206000" />
     </task>
     <task id="LOCAL-00001" summary="Added env files">
       <option name="closed" value="true" />
@@ -152,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740580888290</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added README">
+      <option name="closed" value="true" />
+      <created>1740580919036</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740580919036</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

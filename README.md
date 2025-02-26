@@ -65,8 +65,3 @@ El servidor se ejecutará en `http://127.0.0.1:5000/`
 
 - Python 3
 - Flask
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
-
