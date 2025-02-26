@@ -15,7 +15,7 @@
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/stellar-observatory.git
+   git clone https://github.com/Faithgel/stellar-observatory.git
    cd stellar-observatory
    ```
 2. Crear y activar un entorno virtual (opcional pero recomendado):
