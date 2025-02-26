@@ -15,8 +15,8 @@
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/Faithgel/stellar-observatory.git
-   cd stellar-observatory
+   git clone https://github.com/Faithgel/FlaskTestProj.git
+   cd FlaskTestProj
    ```
 2. Crear y activar un entorno virtual (opcional pero recomendado):
    ```bash
